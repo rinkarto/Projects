@@ -145,6 +145,7 @@ Contains: Missing antlr:antlr:jar:javadoc:2.7.7
 !MESSAGE Missing antlr:antlr:jar:javadoc:2.7.7
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 !ENTRY org.eclipse.jdt.core 4 0 2022-01-23 18:57:35.574
 !MESSAGE Failed to update qualified index.
 !STACK 0
@@ -173,6 +174,8 @@ java.io.UTFDataFormatException
 !ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-01-23 18:57:35.643
 !MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.lIdBmVnt => OK
 =======
+=======
+>>>>>>> branch0
 !ENTRY org.eclipse.ui 2 2 2022-01-23 18:50:34.573
 !MESSAGE Invalid property category path: org.springframework.ide.eclipse.beans.ui.properties.ProjectPropertyPage (bundle: org.springframework.ide.eclipse.xml.namespaces, propertyPage: org.springframework.ide.eclipse.beans.ui.namespaces.projectPropertyPage)
 
@@ -220,4 +223,7 @@ java.io.UTFDataFormatException
 
 !ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-01-23 18:51:37.785
 !MESSAGE executing callback sts4.classpath.lIdBmVnt SUCCESS [done]
+<<<<<<< HEAD
+>>>>>>> branch0
+=======
 >>>>>>> branch0

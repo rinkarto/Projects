@@ -147,6 +147,7 @@ Contains: Missing antlr:antlr:jar:javadoc:2.7.7
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 !ENTRY org.eclipse.jdt.core 4 0 2022-01-23 18:57:35.574
 !MESSAGE Failed to update qualified index.
 !STACK 0
@@ -175,6 +176,8 @@ java.io.UTFDataFormatException
 !ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-01-23 18:57:35.643
 !MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.lIdBmVnt => OK
 =======
+=======
+>>>>>>> branch0
 =======
 >>>>>>> branch0
 =======
@@ -228,6 +231,9 @@ java.io.UTFDataFormatException
 !MESSAGE executing callback sts4.classpath.lIdBmVnt SUCCESS [done]
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> branch0
+=======
 >>>>>>> branch0
 =======
 >>>>>>> branch0
